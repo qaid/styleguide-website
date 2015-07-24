@@ -34,7 +34,7 @@ table
 ```
 
 ### Javascript
-In case you need Javascript for your module, use the key scripts e and add the file path:
+In case you need Javascript for your module, use the key scripts and add the file path:
 
 ```json
 "scripts": ["vendor/foundation.equalizer.js", "pricing-tables.js"]
